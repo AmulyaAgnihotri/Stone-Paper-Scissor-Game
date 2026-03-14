@@ -46,7 +46,7 @@ stone-paper-scissor
 Then display it in the README:
 
 ```markdown
-![Game Preview](Stone-Paper-Scissor-Game/blob/main/N7zgIGY5PmZxtowfVktTOtikarEuYVl7EBEWGdUCthTv4laOkS2NW7B47sQk5I2wKWfEKUyNWkt_QaISZCepnRYI8A5NPgF8RVnSFFLTi24.jpeg)
+![Game Preview](N7zgIGY5PmZxtowfVktTOtikarEuYVl7EBEWGdUCthTv4laOkS2NW7B47sQk5I2wKWfEKUyNWkt_QaISZCepnRYI8A5NPgF8RVnSFFLTi24.jpeg)
 ```
 
 ---
